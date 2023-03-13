@@ -7,3 +7,7 @@ func MyFunc() string {
 func NewFunc() string {
     return "New Module2 String"
 }
+
+func Foo() string {
+    return "FOo"
+}
